@@ -2,4 +2,8 @@
 Script de Backup (.bat) com envio de E-mail
 
 # Script
-![](http://www.100security.com.br/wp-content/uploads/2016/09/sb002.jpg)
+![](https://www.100security.com.br/images/script-backup-bat-02.jpg)
+
+# Artigo
+https://www.100security.com.br/script-backup-bat
+
